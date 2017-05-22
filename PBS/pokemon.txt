@@ -18167,7 +18167,7 @@ BattlerEnemyY=9
 BattlerAltitude=0
 Evolutions=VIVILLON,Level,12
 [666]
-Name=vivillon
+Name=Vivillon
 InternalName=VIVILLON
 Type1=BUG
 Type2=FLYING
