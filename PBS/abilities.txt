@@ -170,7 +170,7 @@
 170,COMPETITIVE,Competitive,"Boosts the Sp. Atk stat when a stat is lowered."
 171,DARKAURA,Dark Aura,"Powers up each Pokémon's Dark-type moves."
 172,FAIRYAURA,Fairy Aura,"Powers up each Pokémon's Fairy-type moves."
-173,FLOWERVEIL,Flower Veil,"Prevents lowering of ally Grass-type Pokémon's stats."
+173,FLOWERVEIL,Flower Veil,"Prevents ally Grass Pokémon's stats lowering."
 174,FURCOAT,Fur Coat,"Halves damage from physical moves."
 175,GALEWINGS,Gale Wings,"Gives priority to Flying-type moves."
 176,GOOEY,Gooey,"Contact with the Pokémon lowers the attacker's Speed stat."
