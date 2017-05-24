@@ -18638,7 +18638,7 @@ Pokedex=In the past, rather than using perfume, royal ladies carried a Spritzee 
 BattlerPlayerY=0
 BattlerEnemyY=9
 BattlerAltitude=0
-Evolutions=AROMATISSE,TradeItem,SACHET
+Evolutions=AROMATISSE,Item,SACHET
 [683]
 Name=Aromatisse
 InternalName=AROMATISSE
@@ -18693,7 +18693,7 @@ Pokedex=Because it eats nothing but sweets, its fur is as sticky sweet as cotton
 BattlerPlayerY=0
 BattlerEnemyY=9
 BattlerAltitude=0
-Evolutions=SLURPUFF,TradeItem,WHIPPEDDREAM
+Evolutions=SLURPUFF,Item,WHIPPEDDREAM
 [685]
 Name=Slurpuff
 InternalName=SLURPUFF
