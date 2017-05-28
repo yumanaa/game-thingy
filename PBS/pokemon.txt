@@ -18167,7 +18167,7 @@ BattlerEnemyY=9
 BattlerAltitude=0
 Evolutions=VIVILLON,Level,12
 [666]
-Name=vivillon
+Name=Vivillon
 InternalName=VIVILLON
 Type1=BUG
 Type2=FLYING
@@ -20172,7 +20172,7 @@ Pokedex=This fairy knows what tastes good.
 BattlerPlayerY=0
 BattlerEnemyY=25
 BattlerAltitude=0
-Evolutions=CHEROOBZO,Level,16
+Evolutions=CHEROOBZO,Item,FIRESTONE
 [804]
 Name=Cheroobzo
 InternalName=CHEROOBZO
@@ -20196,7 +20196,7 @@ Weight=6.9
 Color=Green
 Habitat=Grassland
 RegionalNumbers=804
-Kind=Conesseir
+Kind=Coness
 Pokedex=This new and improved fairy also knows what tastes good. Also a pokedex hogger
 BattlerPlayerY=0
 BattlerEnemyY=25
