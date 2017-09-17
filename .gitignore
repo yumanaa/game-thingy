@@ -1,17 +1,19 @@
-Data/Actors.rxdata
-Data/Animations.rxdata
-Data/Armors.rxdata
-Data/CommonEvents.rxdata
-Data/Enemies.rxdata
-Data/Items.rxdata
-Data/Map010.rxdata
-Data/Map031.rxdata
-Data/Map069.rxdata
-Data/MapInfos.rxdata
-Data/PkmnAnimations.rxdata
-Data/Skills.rxdata
-Data/States.rxdata
-Data/System.rxdata
-Data/Weapons.rxdata
-Data/Armors.rxdata
-Data/messages.dat
+// files with comment tags in front such as this will not be used.
+// currently, all are commented out to reduce cloning issues.
+// Data/Actors.rxdata
+// Data/Animations.rxdata
+// Data/Armors.rxdata
+// Data/CommonEvents.rxdata
+// Data/Enemies.rxdata
+// Data/Items.rxdata
+// Data/Map010.rxdata
+// Data/Map031.rxdata
+// Data/Map069.rxdata
+// Data/MapInfos.rxdata
+// Data/PkmnAnimations.rxdata
+// Data/Skills.rxdata
+// Data/States.rxdata
+// Data/System.rxdata
+// Data/Weapons.rxdata
+// Data/Armors.rxdata
+// Data/messages.dat
