@@ -21684,6 +21684,7 @@ Shape=8
 Habitat=Mountain
 Kind=Wolf
 Pokedex=When properly raised from a young age, it will become a trustworthy partner that will absolutely never betray its Trainer.
+FormName=Midday Form
 BattlerPlayerY=0
 BattlerEnemyY=9
 BattlerAltitude=0
