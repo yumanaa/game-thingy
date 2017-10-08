@@ -484,7 +484,7 @@ Moves=1,REVERSAL,1,TAUNT,1,TACKLE,1,LEER,1,SANDATTACK,1,BITE,4,SANDATTACK,7,BITE
 Height=1.1
 #-------------------------------
 [LYCANROC-2]
-FormName=Dawn Form
+FormName=Dusk Form
 #-------------------------------
 [WISHIWASHI-1]
 FormName=School Form
