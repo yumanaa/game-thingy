@@ -362,3 +362,6 @@ EliteBattle_MoveAnimations
 # fixed VS sequences not disposing when played in double battles
 EliteBattle_Battle
 EliteBattle_BitmapWrapper
+[1.3.9]
+# fixed the Positioner.exe not actually working with v17 of Essentials
+http://www89.zippyshare.com/d/KBUQdgxi/11258/PositionerScripts.rxdata,Data/PositionerScripts.rxdata

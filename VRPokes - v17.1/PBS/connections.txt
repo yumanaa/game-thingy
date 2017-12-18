@@ -36,3 +36,5 @@
 47,East,8,52,West,0
 # Route 2 (21) - Route 7 (47)
 21,East,77,47,West,0
+# Synodic Pokemon Center (76) - Synodic Pokemart (77)
+76,East,0,77,West,0
