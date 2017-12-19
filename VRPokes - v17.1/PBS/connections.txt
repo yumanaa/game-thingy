@@ -38,3 +38,5 @@
 21,East,77,47,West,0
 # Synodic Pokemon Center (76) - Synodic Pokemart (77)
 76,East,0,77,West,0
+# Synodic Community Mart (79) - Synodic Community Corridor (78)
+79,0,0,78,7,13
